@@ -7,6 +7,8 @@
 - [docker-guide.md](./docker-guide.md): Docker 설치 및 구동 가이드(WSL2 Ubuntu 기준)
 - [dotnet-guide.md](./dotnet-guide.md): C# 개발을 위한 .NET 설치 및 프로젝트 구성 가이드
 - [issue-guide.md](./issue-guide.md): 이슈 작업 선점 관련 규정 가이드
+- [octokit-guide.md](./octokit-guide.md): Octokit.NET 활용 가이드
+- [vscode-extensions.md](./vscode-extensions.md): C# 개발을 위한 VSCode 확장 가이드 (Codespaces)
 
 ---
 
