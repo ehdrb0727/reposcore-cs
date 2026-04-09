@@ -1,7 +1,7 @@
 .PHONY: docs docs-check
 
 PYTHON      := python3
-DOCS_SCRIPT := docs/update_docs_readme.py
+DOCS_SCRIPT := docs/update-docs-readme.py
 
 ## 기본 진입점: 변경이 있을 때만 README 갱신
 docs:
